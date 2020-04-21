@@ -1,6 +1,13 @@
 # Object Finder Library.
 A simple object finder library that supports a predicate based queries and CQN based queries for objects filtering.
 
+```
+<dependency>
+  <groupId>com.github.saiprasadkrishnamurthy.objectfinder</groupId>
+  <artifactId>object-finder</artifactId>
+  <version>1.0</version>
+</dependency>
+```
 For example we have a list of Developer POJOs (which can be visualised as below):
 ```
       [

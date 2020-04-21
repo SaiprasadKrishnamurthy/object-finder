@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/osx,node,maven,vagrant,eclipse,intellij+all
 # Edit at https://www.gitignore.io/?templates=osx,node,maven,vagrant,eclipse,intellij+all
 
+settings.xml
+
 ### Eclipse ###
 .metadata
 bin/
