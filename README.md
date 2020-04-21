@@ -38,7 +38,7 @@ List<Developer> kotlinAndJavaDevelopers = objectFinder.findByPredicateQuery(deve
 List<Developer> kotlinAndJavaDevelopersWithSpring = objectFinder.findByPredicateQuery(developers, "(framework='SpringBoot' AND (language='Java' OR language='Kotlin'))");
 ```
 
-### Filter by CDN Query.
+### Filter by CQN Query.
 CQN is a canonical query in prefix notation which can be easy to construct programatically (for ex: using a query builder)
 ```
 ObjectFinder objectFinder = new ObjectFinder();
